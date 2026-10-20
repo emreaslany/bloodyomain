@@ -376,8 +376,4 @@ bloodyomain/                  # Modüler paket (~4,400 satır)
 
 Katkılar memnuniyetle karşılanır! Lütfen PR göndermeden önce mevcut kod stilini ve yapısını inceleyin.
 
-### Lisans
-
-MIT License — detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
 ---
